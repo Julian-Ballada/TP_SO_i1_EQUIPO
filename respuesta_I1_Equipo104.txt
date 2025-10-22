@@ -12,3 +12,8 @@ e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
 ALFA (julian ballada)
 a- si
 b- si
+
+BETA (Tomás Avellaneda)
+
+c- si 
+d- por discord y los commits
