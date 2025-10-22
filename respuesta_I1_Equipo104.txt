@@ -1,7 +1,7 @@
 nombre de alumnos
 Julian Ballada
-tomas avellaneda
-matias caceres
+Tomas Avellaneda
+Matias Caceres
 
 a-¿ALFA ve los datos que cargaron los demás en su repositorio?
 b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
@@ -10,6 +10,7 @@ d-¿De qué forma se comunicaron ustedes?
 e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
 
 ALFA (julian ballada)
+
 a- si
 b- si
 
@@ -17,3 +18,7 @@ BETA (Tomás Avellaneda)
 
 c- si 
 d- por discord y los commits
+
+Gamma (Matias Caceres)
+
+e- Mediante los commits 
